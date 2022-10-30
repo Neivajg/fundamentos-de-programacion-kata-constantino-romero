@@ -89,7 +89,7 @@ El primer paso es identificar que usaremos una función que, usando la variable 
 El proceso sería el siguiente: `pregunta` -> `imprimePregunta(pregunta)` -> `HTML`
 
 Rellena las funciones siguientes:
-
+ei
 - `imprimeTitulo`: Recibe un **objeto pregunta** y devuelve **un string** con el título de la misma dentro de un `<p>`
 
 - `imprimeTodasLasRespuestas`: Recibe un **objeto pregunta** y devuelve **un string** con todas las posibles respuestas. Para ello, esta función llama a las funciones siguientes:
